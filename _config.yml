@@ -2,9 +2,3 @@ title: RPG Codebase Directory
 description: Каталог ссылок на ролевые проекты
 
 theme: jekyll-theme-primer
-
-exclude:
-  - node_modules
-  - script
-  
-
