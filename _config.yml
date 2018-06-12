@@ -2,3 +2,17 @@ title: RPG Codebase Directory
 description: Каталог ссылок на ролевые проекты
 
 theme: jekyll-theme-primer
+
+collections:
+  larp:
+    output: true
+    permalink: /larp/:name
+  trpg:
+    output: true
+    permalink: /trpg/:name
+
+
+exclude:
+  - .gitignore
+  - .idea
+  - __howto
