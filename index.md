@@ -22,8 +22,7 @@ layout: default
 {% endfor %}
 </table>
 
-Другие: 
-https://github.com/topics/larp
+Github repos by LARP topic: [https://github.com/topics/larp](https://github.com/topics/larp)
 
 ### tRPG (настольные ролевые игры)
 
@@ -47,5 +46,5 @@ https://github.com/topics/larp
 
 ## Связь и поддержка
 
-See [https://github.com/RPGCodeBase/RPGCodeBase.github.io](https://github.com/RPGCodeBase/RPGCodeBase.github.io)
-Fork, commit, pull-request.
+- [https://github.com/RPGCodeBase/RPGCodeBase.github.io](https://github.com/RPGCodeBase/RPGCodeBase.github.io)
+- Fork, commit, pull-request.
