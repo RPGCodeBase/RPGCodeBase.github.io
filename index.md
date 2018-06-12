@@ -46,4 +46,5 @@ https://github.com/topics/larp
 
 ## Связь и поддержка
 
-...
+See [https://github.com/RPGCodeBase/RPGCodeBase.github.io](https://github.com/RPGCodeBase/RPGCodeBase.github.io)
+Fork, commit, pull-request.
