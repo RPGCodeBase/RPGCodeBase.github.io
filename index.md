@@ -48,3 +48,4 @@ Github repos by LARP topic: [https://github.com/topics/larp](https://github.com/
 
 - [https://github.com/RPGCodeBase/RPGCodeBase.github.io](https://github.com/RPGCodeBase/RPGCodeBase.github.io)
 - Fork, commit, pull-request.
+- Wrote rpgworldorg (at) yandex.ru and give us information about your project: title, description, info about author/maintainer, email, url to repo and url to live version (if present).
